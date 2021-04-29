@@ -1,4 +1,10 @@
 # Repositorio_Garc-a_Padilla
+
+
+
+
+
+
 Algoritmo Promedio
 	Definir opciones como caracter
 	opciones<-"s"
